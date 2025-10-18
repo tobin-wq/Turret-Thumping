@@ -1,2 +1,4 @@
 # Turret-Thumping
-IR Turret code
+Song by Chumbawamba
+Turret by Mark Rober
+Code by ChatGPT
